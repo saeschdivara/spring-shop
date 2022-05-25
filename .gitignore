@@ -26,5 +26,7 @@ hs_err_pid*
 .idea/
 *.iml
 
+*.db
+
 ### NodeJS ###
 node_modules
